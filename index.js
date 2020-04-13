@@ -10,3 +10,4 @@ function multiple(){
 function divide(){
   5/5
 }
+function add(a,b)
