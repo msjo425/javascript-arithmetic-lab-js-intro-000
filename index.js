@@ -7,3 +7,6 @@ function subtract(){
 function multiple(){
   2*5
 }
+function divide(){
+  5/5
+}
